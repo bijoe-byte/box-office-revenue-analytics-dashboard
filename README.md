@@ -81,12 +81,12 @@ box office_data_Cleaned.csv
 
 ---
 
-# 🖥 Dashboard Preview
+# 🖥️ Dashboard Preview
 
 ## 📊 Executive Overview
 
 <p align="center">
-  <img src="./dashboard_screenshots/dashboard-overview.png" width="1000">
+  <img src="dashboard_screenshots/Dashboard%20Overview.PNG" alt="Executive Overview" width="1000"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ box office_data_Cleaned.csv
 ## 🎭 Genre & Audience Performance Analysis
 
 <p align="center">
-  <img src="./dashboard_screenshots/genre-performance-insights.png" width="1000">
+  <img src="dashboard_screenshots/Genre%20Performance%20Insights.PNG" alt="Genre Performance" width="1000"/>
 </p>
 
 ---
@@ -102,9 +102,8 @@ box office_data_Cleaned.csv
 ## 🌍 Market & Language Performance Analysis
 
 <p align="center">
-  <img src="./dashboard_screenshots/global-market-insights.png" width="1000">
+  <img src="dashboard_screenshots/Global%20Market%20Insights.PNG" alt="Market & Language Performance" width="1000"/>
 </p>
-
 
 # 📊 Business Insights
 
