@@ -2,12 +2,6 @@
 
 A comprehensive **Box Office Revenue Analytics** project developed using **Python, Pandas, NumPy, MySQL, Matplotlib, Seaborn, and Power BI**. The project analyzes worldwide movie revenue data to generate meaningful business insights through interactive dashboards, statistical analysis, and key performance indicators (KPIs).
 
-<p align="center">
-  <img src="dashboard_screenshots/Dashboard Overview.PNG" alt="Box Office Dashboard" width="1000">
-</p>
-
----
-
 # 📌 Project Overview
 
 This project provides a comprehensive analysis of global **Box Office Revenue** from **2000–2024** using **Python, SQL, and Power BI**. It enables users to explore worldwide revenue trends, domestic and foreign collections, genre performance, audience ratings, production countries, and language-based market insights through interactive dashboards.
@@ -87,29 +81,31 @@ box office_data_Cleaned.csv
 
 ---
 
-## 🖥️ Dashboard Preview
+# 🖥 Dashboard Preview
 
-### 📊 Executive Overview
+## 📊 Executive Overview
 
 <p align="center">
-  <img src="./dashboard_screenshots/Dashboard%20Overview.PNG" alt="Executive Overview" width="1000">
+  <img src="./dashboard_screenshots/dashboard-overview.png" width="1000">
 </p>
 
 ---
 
-### 🎭 Genre & Audience Performance Analysis
+## 🎭 Genre & Audience Performance Analysis
 
 <p align="center">
-  <img src="./dashboard_screenshots/Genre%20Performance%20Insights.PNG" alt="Genre Performance" width="1000">
+  <img src="./dashboard_screenshots/genre-performance-insights.png" width="1000">
 </p>
 
 ---
 
-### 🌍 Market & Language Performance Analysis
+## 🌍 Market & Language Performance Analysis
 
 <p align="center">
-  <img src="./dashboard_screenshots/Global%20Market%20Insights.PNG" alt="Market & Language Performance" width="1000">
+  <img src="./dashboard_screenshots/global-market-insights.png" width="1000">
 </p>
+
+
 # 📊 Business Insights
 
 - Compared worldwide, domestic, and foreign revenue across different years.
