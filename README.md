@@ -87,32 +87,29 @@ box office_data_Cleaned.csv
 
 ---
 
-# 🖥 Dashboard Preview
+## 🖥️ Dashboard Preview
 
-## 📊 Executive Overview
+### 📊 Executive Overview
 
 <p align="center">
-  <img src="dashboard_screenshots/Dashboard Overview.PNG" alt="Executive Overview" width="1000">
+  <img src="./dashboard_screenshots/Dashboard%20Overview.PNG" alt="Executive Overview" width="1000">
 </p>
 
 ---
 
-## 🎭 Genre & Audience Performance Analysis
+### 🎭 Genre & Audience Performance Analysis
 
 <p align="center">
-  <img src="dashboard_screenshots/Genre Performance Insights.PNG" alt="Genre Performance" width="1000">
+  <img src="./dashboard_screenshots/Genre%20Performance%20Insights.PNG" alt="Genre Performance" width="1000">
 </p>
 
 ---
 
-## 🌍 Market & Language Performance Analysis
+### 🌍 Market & Language Performance Analysis
 
 <p align="center">
-  <img src="dashboard_screenshots/Global Market Insights.PNG" alt="Market Insights" width="1000">
+  <img src="./dashboard_screenshots/Global%20Market%20Insights.PNG" alt="Market & Language Performance" width="1000">
 </p>
-
----
-
 # 📊 Business Insights
 
 - Compared worldwide, domestic, and foreign revenue across different years.
