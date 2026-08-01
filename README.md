@@ -1,57 +1,84 @@
 🎬 Box Office Revenue Analytics Dashboard (2000–2024)
 
+<div align="center">
+
+Box Office Revenue Analytics Dashboard
+
+End-to-End Data Analytics Project using Python • MySQL • Power BI • DAX • Power Query
+
+Analyze worldwide movie performance from 2000–2024 through interactive dashboards, SQL analytics, and Python-based data processing.
+
+</div>
+
+📸 Dashboard Preview
+
+Executive Overview
 
 
-📖 Overview
 
-An end-to-end Data Analytics project built with Python, MySQL, Power BI, DAX, and Power Query to analyze worldwide box office performance from 2000–2024. The project transforms raw movie data into interactive business intelligence dashboards and actionable insights.
+Genre & Audience Performance Analysis
 
-✨ Features
 
-Interactive Power BI dashboards
 
-Data cleaning and preprocessing using Python
+Market & Language Performance Analysis
 
-SQL analysis with MySQL
 
-DAX measures and Power Query transformations
 
-KPI cards and dynamic slicers
+📖 Project Overview
 
-Revenue, genre, language, and market analysis
+This project delivers a complete business intelligence solution for analyzing global box office revenue. The workflow includes data cleaning in Python, SQL analysis in MySQL, data transformation using Power Query, DAX calculations, and interactive Power BI dashboards.
 
-🛠️ Tech Stack
+🚀 Tech Stack
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+Category
+
+Tools
+
+Programming
+
+Python
+
+Libraries
+
+Pandas, NumPy, Matplotlib, Seaborn
+
+Database
 
 MySQL
 
+BI Tool
+
 Power BI
 
-DAX
+Data Modeling
 
-Power Query
+Power Query, DAX
 
-📂 Project Structure
+📂 Dataset
 
-box-office-revenue-analytics-dashboard/
-├── README.md
-├── box_office.pbix
-├── box_office_data_Cleaned.csv
-├── box_office_pandas file.ipynb
-├── box office.sql
-└── dashboard_screenshots/
-    ├── Dashboard Overview.PNG
-    ├── Genre Performance Insights.PNG
-    └── Global Market Insights.PNG
+5,000 Movie Records
+
+Years: 2000–2024
+
+Worldwide Revenue
+
+Domestic Revenue
+
+Foreign Revenue
+
+Genres
+
+Ratings
+
+Vote Count
+
+Original Language
+
+Production Countries
 
 📊 Dashboard Pages
 
-1️⃣ Executive Overview
-
-
-
-Highlights
+1. Executive Overview
 
 Total Revenue
 
@@ -65,15 +92,7 @@ Weighted Rating
 
 Revenue Trend by Year
 
-Revenue Distribution
-
-Interactive Filters
-
-2️⃣ Genre & Audience Performance Analysis
-
-
-
-Highlights
+2. Genre & Audience Performance Analysis
 
 Revenue by Genre
 
@@ -83,67 +102,56 @@ Audience Rating Analysis
 
 Revenue Category Distribution
 
-Top Movie Rankings
+Movie Ranking
 
-3️⃣ Market & Language Performance Analysis
+3. Market & Language Performance Analysis
 
-
-
-Highlights
-
-Revenue by Original Language
+Revenue by Language
 
 Domestic vs Foreign Revenue
 
 Production Country Analysis
 
-Foreign Market Dependency Index
-
-Market Performance Trends
+Market Dependency Index
 
 📈 Key Insights
 
-Foreign revenue contributes a larger share of worldwide box office revenue.
+Foreign markets contribute the majority of revenue.
 
-Action and Adventure genres generate the highest collections.
+Action & Adventure genres lead worldwide collections.
 
-English-language movies dominate total revenue.
+English-language movies dominate the market.
 
-Revenue generally increased over time, with a notable decline around 2020 before recovering.
-
-Interactive filters allow exploration by year, genre, language, and production country.
+Revenue dropped sharply in 2020 and recovered afterward.
 
 🔄 Workflow
 
-Raw Dataset
-    │
-    ▼
-Python Data Cleaning
-    │
-    ▼
+CSV Dataset
+   ↓
+Python Cleaning
+   ↓
 MySQL Analysis
-    │
-    ▼
+   ↓
 Power Query
-    │
-    ▼
+   ↓
 Data Modeling
-    │
-    ▼
+   ↓
 DAX Measures
-    │
-    ▼
-Interactive Power BI Dashboard
+   ↓
+Power BI Dashboard
 
-🚀 Future Enhancements
+💻 Repository Structure
 
-Machine learning-based revenue prediction
-
-Real-time data integration
-
-Sentiment analysis using movie reviews
-
-Web-based dashboard deployment
+box-office-revenue-analytics-dashboard/
+├── README.md
+├── box_office.pbix
+├── box_office_data_Cleaned.csv
+├── box_office_pandas file.ipynb
+├── box office.sql
+└── dashboard_screenshots/
+    ├── Dashboard Overview.PNG
+    ├── Genre Performance Insights.PNG
+    └── Global Market Insights.PNG
 
 👨‍💻 Author
 
@@ -151,4 +159,4 @@ Bijoe Shane
 
 Data Analyst | Python | SQL | Power BI | Excel | DAX | Power Query
 
-⭐ If you found this project useful, consider giving it a Star.
+⭐ If you found this project useful, please give it a Star!
